@@ -1,8 +1,8 @@
-INTEGRANTES:
-NOME: Lorenzo Hayashi Mangini | RM: 554901
-NOME: Milton Cezar Bacanieski | RM: 555206
-NOME: Vitor Bebiano Mulford | RM: 555026
-NOME: Victório Maia Bastelli | RM: 554723
+- INTEGRANTES:
+- NOME: Lorenzo Hayashi Mangini | RM: 554901
+- NOME: Milton Cezar Bacanieski | RM: 555206
+- NOME: Vitor Bebiano Mulford | RM: 555026
+- NOME: Victório Maia Bastelli | RM: 554723
 
 Sistema de Agendamento Hospitalar implementado como Web Service SOAP em Java puro, publicando e consumindo serviços via protocolo SOAP 1.1 com envelope XML.
 
